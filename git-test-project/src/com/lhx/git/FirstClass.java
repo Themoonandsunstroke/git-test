@@ -15,4 +15,8 @@ public class FirstClass {
         System.out.println("helloworld git");
 
     }
+    public void test() {
+        int i = 10;
+        i += 10;
+    }
 }

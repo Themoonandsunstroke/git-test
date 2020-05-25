@@ -15,8 +15,12 @@ public class FirstClass {
         System.out.println("helloworld git");
 
     }
+    //本次修改
     public void test() {
         int i = 10;
         i += 10;
+        System.out.println(i);
     }
+
+
 }
